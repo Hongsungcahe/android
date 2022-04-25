@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MY0406</string>
+    <!--activity_main.xml-->
+    <string name="tvMsg_text">오늘 밖에 날씨가 무척 좋네요!</string>
+    <string name="edt_hint">입력해주세요:</string>
+    <string name="btnChange_text">텍스트변경</string>
+    <string name="btnBgChange">배경색변경❤</string>
+
+    <!--activity_main2.xml-->
+    <string name="btn_red">RED</string>
+    <string name="btn_green">GREEN</string>
+    <string name="btn_blue">BLUE</string>
+</resources>
