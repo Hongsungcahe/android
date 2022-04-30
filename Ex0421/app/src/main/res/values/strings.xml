@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex0421</string>
+    <string name="main_text">Login</string>
+    <string name="main_login">로그인</string>
+    <string name="main_new">회원가입</string>
+
+    <string name="join_join">가입등록</string>
+</resources>
