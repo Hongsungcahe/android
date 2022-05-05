@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex0428</string>
+    <string name="btnStart">시작</string>
+    <string name="time">남은시간</string>
+    <string name="count">잡은개수</string>
+    <string name="title">🔪박승현 잡기🔪</string>
+</resources>
